@@ -1,0 +1,5 @@
+author = Cal
+version = 0.1.1
+displayName = Promethium Mod
+homepage = https://discord.gg/nKn7J8w
+

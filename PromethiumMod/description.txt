@@ -1,0 +1,26 @@
+The Promethium Mod is a mod that is currently in development.
+It adds about 20 new items, including 1 armor set and an early-game ore.
+Shoutouts to the team working on this mod's development, you can meet them by clicking on the link to our homepage, which is also our official Discord server.
+Also check out Memes Unleashed, a community project mod focused on less serious gameplay.
+
+------PATCHNOTES------
+
+v0.1
+Added Gold and Platinum Flamethrowers
+Added Promethium Ore
+Added Promethium Bars
+Added Promethium Armor
+Added Harrowers
+Added Promethium Sword
+Added Promethium Pickaxe
+Added Promethium Javelins
+Added Promethium Staff
+Added Promethium Bow
+Added Carnium Bars (unobtainable)
+Added Carnium Katana (unobtainable)
+Added Bow of Blood (unobtainable)
+Added Carnium Pickaxe (unobtainable)
+Added Flora Blade
+Added the Goo Staff
+Added the Missile Mirror
+Added Survival Knife
